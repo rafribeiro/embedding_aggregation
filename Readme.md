@@ -19,3 +19,5 @@ To obtain the original datasets, please go to:
 ## New verification protocol for the Quis-Campi dataset
 
 The Quis-Campi encounters protocol is available at the quis-campi_encounters.csv file. This file has six columns: a sequence number, the path of the image file, the time stamp, the corresponding identity, the typeID, and the encounter number. The typeID for all images in the CSV is 14, indicating that this is a PTZ still image. The encounter number is used to distinguish the multiple encounters of each person with the image capture system.
+
+To obtain the Quis-Campi dataset, please go to http://quiscampi.di.ubi.pt/.
