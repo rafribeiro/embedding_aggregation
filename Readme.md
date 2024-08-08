@@ -11,7 +11,7 @@ Both the Adience and BFW datasets have errors in their identity labels. We offer
 ![distributions of genuine and impostor scores from the original and cleaned versions of the Adience and BFW datasets](adience_bfw_scores_before_and_after_clean.jpg)
 
 
-The images included in each cleaned dataset are listed in the corresponding csv file (adience_clean_list.csv and bfw_clean_list.csv). These csv files have three columns: a sequence number, the identity of each image, and the image file name. All other images from the corresponding dataset should be discarded. Details on how the datasets were cleaned are in Section 4.2.2 of the [paper](https://arxiv.org/abs/2305.00352).
+The images included in each cleaned dataset are listed in the corresponding csv file (adience_clean_list.csv and bfw_clean_list.csv). These csv files have three columns: a sequence number, the identity of each image, and the image file name. All other images from the corresponding dataset should be discarded. Details on how the datasets were cleaned are in Section 3.2.1 of the [paper](https://www.sciencedirect.com/science/article/pii/S135503062400073X).
 
 To obtain the original datasets, please go to:
 - Adience: https://talhassner.github.io/home/projects/Adience/Adience-data.html
