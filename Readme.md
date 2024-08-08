@@ -1,6 +1,8 @@
 # Embedding Aggregation for Forensic Face Comparison
 
-This is the repository for the accompanying data for the paper [Embedding Aggregation for Forensic Face Comparison](https://arxiv.org/abs/2305.00352).
+This is the repository for the accompanying data for the paper [Improving the evidential value of low-quality face images with aggregation of deep neural network embeddings](https://www.sciencedirect.com/science/article/pii/S135503062400073X).
+
+
 
 ## Cleaned versions of the Adience and BFW datasets
 
